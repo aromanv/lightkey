@@ -1,0 +1,112 @@
+[
+    {
+        "notAfter": 1514549151000,
+        "notBefore": 1452632400000,
+        "disposable": true,
+        "keys": [
+            "0000FF11",
+            "00003D36",
+            "0000A3D9",
+            "0000C462"
+        ]
+    },
+    {
+        "notAfter": 1514549151000,
+        "notBefore": 1452632400000,
+        "disposable": true,
+        "keys": [
+            "0000FF11",
+            "00003D36",
+            "0000A3D9",
+            "0000C462"
+        ]
+    },
+    {
+        "notAfter": 1514549151000,
+        "notBefore": 1452632400002,
+        "disposable": true,
+        "keys": [
+            "000028A1",
+            "0000DFB1",
+            "0000CE3D",
+            "00006D55"
+        ]
+    },
+    {
+        "notAfter": 1514549151005,
+        "notBefore": 1452632400005,
+        "disposable": true,
+        "keys": [
+            "00002DF6",
+            "00003AEF",
+            "0000F996",
+            "0000EAC1"
+        ]
+    },
+    {
+        "notAfter": 1514549151010,
+        "notBefore": 1452632400010,
+        "disposable": true,
+        "keys": [
+            "00000EDF",
+            "0000C1C9",
+            "000092F1",
+            "0000C2BA"
+        ]
+    },
+    {
+        "notAfter": 1514549151040,
+        "notBefore": 1452632400040,
+        "disposable": true,
+        "keys": [
+            "0000E7A7",
+            "00008DF3",
+            "00007FBB",
+            "0000DD75"
+        ]
+    },
+    {
+        "notAfter": 1514549151070,
+        "notBefore": 1452632400070,
+        "disposable": true,
+        "keys": [
+            "00001200",
+            "00003364",
+            "0000EFC9",
+            "0000D723"
+        ]
+    },
+    {
+        "notAfter": 1514549151080,
+        "notBefore": 1452632400080,
+        "disposable": true,
+        "keys": [
+            "00002C54",
+            "00004CA0",
+            "000013E3",
+            "00004F7E"
+        ]
+    },
+    {
+        "notAfter": 1514549151090,
+        "notBefore": 1452632400090,
+        "disposable": true,
+        "keys": [
+            "00008F3C",
+            "00009A88",
+            "00000551",
+            "0000D744"
+        ]
+    },
+    {
+        "notAfter": 1514549151190,
+        "notBefore": 1452632400190,
+        "disposable": true,
+        "keys": [
+            "00006A0F",
+            "00005141",
+            "00006B9B",
+            "0000B110"
+        ]
+    }
+]
